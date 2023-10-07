@@ -1,3 +1,6 @@
+## Atividade
+Usando os conhecimentos vistos nas aulas e nos estudos, a ideia foi desenvolver uma árvore AVL, que é uma árvore binária de busca balanceada. Sua grande vantagem é ter um tempo de busca, inserção e remoção no pior caso, como O(log n). O nome AVL vem de seus criadores soviéticos Adelson Velsky e Landis, e sua primeira referência encontra-se no documento "Algoritmos para organização da informação" de 1962
+
 ## Tools
 Para executar é recomendado que tenha o python 3.6 em diante instalado, a versão que utilizei foi o python 3.9.2
 também utilizei o pycharm para executar o arquivo, mas também é possível executar online pelo replit:
